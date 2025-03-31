@@ -67,7 +67,7 @@
             name: 'Al Qaşīm'
         },
         {
-            arabicName: 'جيـــزان',
+            arabicName: 'جازان',
             name: 'Jāzān'
         },
         {
